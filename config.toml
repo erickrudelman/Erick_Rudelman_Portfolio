@@ -1,5 +1,5 @@
 title = "Erick Rudelman"
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+baseURL = https://erickrudelman.github.io/Erick_Rudelman_Portfolio/"
 languageCode = "en-us"
 theme = "ananke"
 #resourceDir = "../resources"
